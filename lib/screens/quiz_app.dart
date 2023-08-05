@@ -13,10 +13,10 @@ class _HomePageState extends State<HomePage> {
   int result = 0;
 
   List correctAnswers = [
-    'football ⚽',
-    'black ⚫',
-    'Cheetah 🐆',
-    'Ronaldo 🥇',
+    'football ',
+    'black ',
+    'Cheetah ',
+    'Ronaldo ',
   ];
 
   List chosenAnswers = [];
@@ -25,37 +25,37 @@ class _HomePageState extends State<HomePage> {
     {
       'question': 'What is the best sport ?',
       'answers': [
-        'basketball 🏀',
-        'football ⚽',
-        'volleyball 🏐',
-        'tennis 🎾',
+        'basketball ',
+        'football ',
+        'volleyball ',
+        'tennis ',
       ],
     },
     {
       'question': 'What is the most beautiful color ?',
       'answers': [
-        'red 🔴',
-        'blue 🔵',
-        'black ⚫',
-        'green 🟢',
+        'red ',
+        'blue ',
+        'black ',
+        'green ',
       ],
     },
     {
       'question': 'What is the fastest animal ?',
       'answers': [
-        'horse 🐎',
-        'turtle 🐢',
-        'dog 🐕',
-        'Cheetah 🐆',
+        'horse ',
+        'turtle ',
+        'dog ',
+        'Cheetah ',
       ],
     },
     {
       'question': 'Who is the best player? Of course, Siiiiiiiiiiiiiii',
       'answers': [
-        'Ronaldo 🏆',
-        'Messi 🥇 ',
-        'Salah 🥈',
-        'Shekabala 🥉',
+        'Ronaldo ',
+        'Messi ',
+        'Salah ',
+        'Shekabala ',
       ],
     },
   ];
